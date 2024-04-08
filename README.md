@@ -1,6 +1,6 @@
 # To-Do List
 
-A To-To List application made in Flutter.
+A To-To List application made in Flutter for Windows and Linux only.
 
 ## Installation
 
